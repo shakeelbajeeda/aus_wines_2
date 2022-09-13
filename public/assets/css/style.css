@@ -1,0 +1,20 @@
+.image_header {
+    background-repeat: no-repeat, no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 100px;
+}
+
+.text_heading {
+    width: 100%;
+    text-align: center;
+    padding-top: 100px;
+    height: 650px;
+}
+
+.image_text {
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
